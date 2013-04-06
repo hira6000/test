@@ -1,7 +1,7 @@
 package com.tktsys;
 
 /**
- * Test01クラス
+ * Test01クラスだよ~~~~
  */
 public class Test01 {
 
